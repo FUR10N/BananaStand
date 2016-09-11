@@ -34,6 +34,7 @@ build/*.nuget
 build/nuget.exe
 *.nupkg
 *.nuspec
+publish*/
 
 # VS 2015
 .vs/
